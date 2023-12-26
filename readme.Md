@@ -4,7 +4,7 @@ This is a webscraper built using python to collect and download logos for variou
 It uses the python threading module to download images for each of the categories simultaneously to make the process much faster. It also uses the session module to set 
 pre-defined custom headers ensuring that the scraper is not blocked from the website.
 
-> This project was used to collect data as part of the preparatory stages for the [Logo API](https://github.com/edgarmuyomba/logos-api.git) - A free api used to retrieve various company logos. Check out the live demo [here]()
+> This project was used to collect data as part of the preparatory stages for the [Logo API](https://github.com/edgarmuyomba/logoAPI) - A free api used to retrieve various company logos.
 
 ## Requirements
 1. Make sure to create the category folders you want
